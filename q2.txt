@@ -1,0 +1,18 @@
+rite a blog about objects and its internal representation in Javascript
+
+* OBJECTS
+   
+   * java scripts in objcte most important data type 
+   * Objects like (name,strings,symbols,boolean,age)and different types of data in javacript
+   * Java scripts as two big data types are (primitive & object) data type
+   * 0bject orient base datatypes are primitive datatypes
+   * Java scripts may be defined as unorder datatype collecte all data in primitive data types
+
+
+* INTERNAL REPRESENTAION IN JAVASCRIPT
+
+   * The even simple data type like numbers, strings all  data typestore java scripts bunch data
+   * The important keyways in datatypes object same key value &keypair many of datatype stored in javascript
+   * Java can acceses the all data types like object all properties,name,cursial valve
+   * nearly javascripts datatypes are typical datatye or nulltype object data type descened from protype datetypes
+   * Java scripts use code data type of brackect or null rotation is split data type in java scripts

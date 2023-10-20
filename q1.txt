@@ -1,0 +1,20 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1
+
+* http1.1 was founded since 1997
+* http1.1 advanced versoin used an web
+* this web search solved some similar problem solved
+* http1.1 web search followed by one by one search
+* http1.1 face some problem web search one longer than one resourcse it bblock the web search
+
+
+HTTP2
+
+* http1.1 face some server issuses it was created an advanced version in 1995
+* The latest version http2 faster than http1.1 version
+* http1.1 versoin some web issues solve in http2 versoin
+* The latest versoin http2 created some new features
+* http2 this version web search like load on  first page java or css file
+* this  version can  use send mail of mail once received  so we  can an send an next amil
+
